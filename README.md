@@ -1,4 +1,4 @@
-# PRODIGY_WD_01
+
 # Interactive Navigation Menu
 
 An interactive and stylish navigation menu built with HTML, CSS, and JavaScript. This menu features:
